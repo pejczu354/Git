@@ -2,10 +2,6 @@
 /**
  * Podstawowa konfiguracja WordPressa.
  *
- * Skrypt wp-config.php używa tego pliku podczas instalacji.
- * Nie musisz dokonywać konfiguracji przy pomocy przeglądarki internetowej,
- * możesz też skopiować ten plik, nazwać kopię "wp-config.php"
- * i wpisać wartości ręcznie.
  *
  * Ten plik zawiera konfigurację:
  *
@@ -92,3 +88,4 @@ if ( !defined('ABSPATH') )
 
 /** Ustawia zmienne WordPressa i dołączane pliki. */
 require_once(ABSPATH . 'wp-settings.php');
+// Co tam slychac?? 
